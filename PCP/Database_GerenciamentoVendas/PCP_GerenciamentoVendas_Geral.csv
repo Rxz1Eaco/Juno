@@ -1,0 +1,27 @@
+Produto,QuantidadePrevista,QuantidadeVendida,DataPrevista,DataVenda,DescricaoTendencia,DataIdentificacao,DescricaoVariacao,PeriodoSazonal
+ProdutoA,110,100,2024-01-23,2024-01-18,Crescente,2024-01-18,"Promoção de Verão",Verão
+ProdutoB,140,130,2024-01-24,2024-01-19,Estável,2024-01-19,"Eventos de Carnaval",Verão
+ProdutoC,75,65,2024-01-25,2024-01-20,Decrescente,2024-01-20,"Volta às aulas",Outono
+ProdutoD,200,180,2024-01-26,2024-01-21,Crescente,2024-01-21,"Promoções de Inverno",Inverno
+ProdutoE,90,85,2024-01-27,2024-01-22,Estável,2024-01-22,Páscoa,Primavera
+ProdutoF,120,95,2024-01-28,2024-01-23,Crescente,2024-01-23,"Promoção de Aniversário",Verão
+ProdutoG,160,145,2024-01-29,2024-01-24,Estável,2024-01-24,"Lançamento de Produto",Inverno
+ProdutoH,85,80,2024-01-30,2024-01-25,Decrescente,2024-01-25,"Eventos Especiais",Outono
+ProdutoI,220,200,2024-01-31,2024-01-26,Crescente,2024-01-26,"Promoções de Meio de Ano",Inverno
+ProdutoJ,110,100,2024-02-01,2024-01-27,Estável,2024-01-27,"Black Friday",Outono
+ProdutoK,130,110,2024-02-02,2024-01-28,Crescente,2024-01-28,"Descontos de Carnaval",Inverno
+ProdutoL,180,160,2024-02-03,2024-01-29,Estável,2024-01-29,"Liquidação de Verão",Verão
+ProdutoM,95,85,2024-02-04,2024-01-30,Decrescente,2024-01-30,"Eventos de Halloween",Outono
+ProdutoN,240,220,2024-02-05,2024-01-31,Crescente,2024-01-31,"Promoções de Natal",Inverno
+ProdutoO,120,100,2024-02-06,2024-02-01,Estável,2024-02-01,"Promoções de Meio de Ano",Verão
+ProdutoP,150,130,2024-02-07,2024-02-02,Crescente,2024-02-02,"Promoção de Verão",Verão
+ProdutoQ,200,180,2024-02-08,2024-02-03,Estável,2024-02-03,"Lançamento de Produto",Inverno
+ProdutoR,110,95,2024-02-09,2024-02-04,Decrescente,2024-02-04,"Eventos Especiais",Outono
+ProdutoS,180,160,2024-02-10,2024-02-05,Crescente,2024-02-05,"Promoções de Inverno",Inverno
+ProdutoT,95,80,2024-02-11,2024-02-06,Estável,2024-02-06,"Promoções de Meio de Ano",Verão
+ProdutoU,120,100,2024-02-12,2024-02-07,Crescente,2024-02-07,"Promoção de Carnaval",Inverno
+ProdutoV,160,150,2024-02-13,2024-02-08,Estável,2024-02-08,"Liquidação de Verão",Verão
+ProdutoW,85,75,2024-02-14,2024-02-09,Decrescente,2024-02-09,"Eventos de Páscoa",Primavera
+ProdutoX,200,180,2024-02-15,2024-02-10,Crescente,2024-02-10,"Promoções de Inverno",Inverno
+ProdutoY,110,95,2024-02-16,2024-02-11,Estável,2024-02-11,"Promoções de Meio de Ano",Verão
+ProdutoZ,140,120,2024-02-17,2024-02-12,Crescente,2024-02-12,"Descontos de Páscoa",Primavera

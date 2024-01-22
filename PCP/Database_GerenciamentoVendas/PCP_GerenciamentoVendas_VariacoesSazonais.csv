@@ -1,0 +1,27 @@
+IdVariacao,Produto,DescricaoVariacao,PeriodoSazonal,DataIdentificacao
+1,ProdutoA,"Promoção de Verão",Verão,2024-01-10
+2,ProdutoB,"Eventos de Carnaval",Verão,2024-02-01
+3,ProdutoC,"Volta às aulas",Outono,2024-03-01
+4,ProdutoD,"Promoções de Inverno",Inverno,2024-06-01
+5,ProdutoE,Páscoa,Primavera,2024-04-01
+6,ProdutoF,"Promoção de Aniversário",Verão,2024-01-15
+7,ProdutoG,"Lançamento de Produto",Inverno,2024-02-15
+8,ProdutoH,"Eventos Especiais",Outono,2024-03-15
+9,ProdutoI,"Promoções de Meio de Ano",Inverno,2024-06-15
+10,ProdutoJ,"Black Friday",Outono,2024-11-15
+11,ProdutoK,"Descontos de Carnaval",Inverno,2024-02-01
+12,ProdutoL,"Liquidação de Verão",Verão,2024-02-10
+13,ProdutoM,"Eventos de Halloween",Outono,2024-10-01
+14,ProdutoN,"Promoções de Natal",Inverno,2024-12-01
+15,ProdutoO,"Promoções de Meio de Ano",Verão,2024-06-15
+16,ProdutoP,"Promoção de Verão",Verão,2024-02-01
+17,ProdutoQ,"Lançamento de Produto",Inverno,2024-02-10
+18,ProdutoR,"Eventos Especiais",Outono,2024-02-15
+19,ProdutoS,"Promoções de Inverno",Inverno,2024-02-20
+20,ProdutoT,"Promoções de Meio de Ano",Verão,2024-02-25
+21,ProdutoU,"Promoção de Carnaval",Inverno,2024-02-05
+22,ProdutoV,"Liquidação de Verão",Verão,2024-02-15
+23,ProdutoW,"Eventos de Páscoa",Primavera,2024-03-01
+24,ProdutoX,"Promoções de Inverno",Inverno,2024-02-20
+25,ProdutoY,"Promoções de Meio de Ano",Verão,2024-02-25
+26,ProdutoZ,"Descontos de Páscoa",Primavera,2024-03-10
